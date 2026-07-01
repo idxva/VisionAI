@@ -1,5 +1,0 @@
-opencv-python-headless
-ultralytics
-numpy
-flask
-flask-cors
